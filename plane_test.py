@@ -2,6 +2,8 @@ import unittest
 from plane import Plane
 from task import simulator
 
+
+#https://github.com/mic19/kol1_gr2
 class PlaneTest(unittest.TestCase):
 	def setUp(self):
 		self.orientation = 0
